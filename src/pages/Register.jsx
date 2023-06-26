@@ -17,7 +17,7 @@ background-size: cover;
 align-items:center;
 justify-content:center;
 `;
-
+//Pratham Sharma
 const Wrapper=styled.div`
 padding: 20px;
 width: 40%;
